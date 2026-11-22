@@ -49,7 +49,7 @@ Coming soon! Check out my repositories for projects in web development, AI, and 
 ### 🤝 Let's Connect
 
 - GitHub: https://github.com/RwittikaChowdhury
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/rwittika-chowdhury-473723240
 - Portfolio: [Add your portfolio URL]
 - Email: [Add your professional email]
 
